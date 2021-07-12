@@ -1,10 +1,10 @@
-#todo-list
+# todo-list
 Description: A functional to-do list web application with various useful features<br>
 Language: HTML and JavaScript<br>
 Project Type: School project, collaborative<br>
 Purpose: Learn how to tie together elements of HTML, JS, CSS (via bootstrap), and Electron API to create functional web applications<br>
 
-#Important: electron-quick-start
+# Important: electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**
 
